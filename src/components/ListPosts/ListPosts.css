@@ -1,0 +1,13 @@
+.haha h1{
+    color: rgb(142, 247, 56);
+}
+.haha .bodyy{
+    padding: 100px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.haha .tags{
+    justify-content: space-between;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}

@@ -1,0 +1,24 @@
+.Details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+}
+.Details img {
+  width: 270px;
+  height: 100%;
+}
+.detailSection {
+  display: flex;
+}
+.detailSection label,
+.detailSection span {
+  width: 250px;
+  text-align: left;
+  padding: 5px;
+}
+.detailSection label{
+  font-weight: bold;
+  color: rgb(66, 66, 204);
+}
